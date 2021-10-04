@@ -1,4 +1,4 @@
-<div><img align="left" height="160" width="240" src="https://i.pinimg.com/originals/73/2b/b6/732bb601054da2f838f3c456203f12ce.gif"><div>
+<!---<div><img align="left" height="160" width="240" src="https://i.pinimg.com/originals/73/2b/b6/732bb601054da2f838f3c456203f12ce.gif"><div>--->
   
 ## Hi, I'm Macielly.
 
@@ -8,20 +8,22 @@
   
   > 🌈 </a>Pronouns: **Els/Dels/s**
  
-  
+  <!---
   > *Had to have high hopes for a living*
+  --->
  
 <!---
 Maahrcy/Maahrcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---  
+ 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maahrcy&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahrcy&layout=compact&langs_count=16&theme=synthwave"/>
+  <!---
+       <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahrcy&layout=compact&langs_count=16&theme=synthwave"/>
+  --->
 </div>
---->
 
 ##
 
