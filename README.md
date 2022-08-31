@@ -13,15 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
+    <div>
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+    </div>
 ##
 
 <div align="justify">
   <a href="mailto:maciellydatrindadee@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/macielly_trindade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="discordapp.com/users/maahrcy#2610"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<div>
+    </div>
   
   <!---
 invision app: https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white
